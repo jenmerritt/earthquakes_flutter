@@ -1,16 +1,13 @@
 # earthquakes_flutter
 
-A new Flutter project.
+Based off https://github.com/jenmerritt/vue_earthquake_api
 
-## Getting Started
+Fetches data from USGS earthquakes API and displays the largest earthquakes in a map and table. 
+Built using Flutter, compatible with desktop, mobile and web.
 
-This project is a starting point for a Flutter application.
+Still to do:
+- Develop the UI to be fully adaptable e.g. differnet layouts on different sized screens / platforms.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# To run:
+1. Clone/Fork/Download this project
+2. From main.dart, run the application setting the target device as any of desktop, mobile or web. (Note: tested on Mac, iOS and web).
