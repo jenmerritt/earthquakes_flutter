@@ -10,4 +10,5 @@ Still to do:
 
 # To run:
 1. Clone/Fork/Download this project
-2. From main.dart, run the application setting the target device as any of desktop, mobile or web. (Note: tested on Mac, iOS and web).
+2. You may need to get the dependencies. Just save the pubspec.yaml file in VSCode (with the Flutter plugin installed) to auto-run the package getter, or you can run `flutter pub get`.
+3. From main.dart, run the application setting the target device as any of desktop, mobile or web. (Note: tested on Mac, iOS and web).
